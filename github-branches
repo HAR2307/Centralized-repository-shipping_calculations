@@ -1,2 +1,4 @@
-* main                      1020f53 [origin/main: ahead 1] Revert "Update Shipping_Cost_Calculator.py"
+  bug-fix-revert            7895457 Fix typo in README
+  bug-fix-typo              7895457 Fix typo in README
+* main                      7895457 [origin/main: ahead 1] Fix typo in README
   shipping_calculator_fixes 1020f53 Revert "Update Shipping_Cost_Calculator.py"
